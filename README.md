@@ -1,1 +1,2 @@
-# musical-reviews
+# Musical Reviews
+Summaries, Songs, and Reviews
